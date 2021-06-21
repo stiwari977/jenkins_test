@@ -1,7 +1,7 @@
 pipeline {
     agent any
     tools {
-        //test sdafsd
+        
         // Install the Maven version configured as "M3" and add it to the path.
         maven "MVN3"
         jdk "JDK1.8"
